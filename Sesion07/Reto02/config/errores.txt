@@ -1,0 +1,6 @@
+INFO: El sistema inició correctamente
+ERROR: No se pudo cargar el módulo
+WARNING: La memoria disponible es baja
+ERROR: Conexión perdida
+INFO: Operación finalizada con éxito
+WARNING: Espacio en disco casi lleno
